@@ -1,5 +1,0 @@
-﻿OLX                            Amsterdam               97,49             20000,9                  10
-Roshen                         Vinnytsia                30,5             1012,31                   8
-Amazon                           Seattle              100,34            25000,21                  12
-AliExpress                         China                50,1             13000,4                   9
-Apple                         California                10,2             13000,4                  11
